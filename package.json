@@ -2,6 +2,7 @@
   "name": "teamo-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://GitHub Cwonseo.github.io/teamo-frontend",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@react-oauth/google": "^0.11.0",
