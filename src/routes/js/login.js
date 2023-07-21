@@ -2,7 +2,6 @@ import React from "react";
 import Navigation from "../../components/js/landing_navigation.js";
 import login from "../css/login.module.css";
 import GoogleButton from "../../components/js/GoogleButton.js";
-import GoogleLogin from "../../components/js/GoogleLogin.js";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
